@@ -1,0 +1,31 @@
+C:\Users\LENOVO\Documents\Visual Studio 2022\TugasWorkshop\TugasWorkshop\bin\Debug\TugasWorkshop.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2022\TugasWorkshop\TugasWorkshop\bin\Debug\TugasWorkshop.exe
+C:\Users\LENOVO\Documents\Visual Studio 2022\TugasWorkshop\TugasWorkshop\bin\Debug\TugasWorkshop.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2022\TugasWorkshop\TugasWorkshop\obj\Debug\TugasWorkshop.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2022\TugasWorkshop\TugasWorkshop\obj\Debug\TugasWorkshop.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Documents\Visual Studio 2022\TugasWorkshop\TugasWorkshop\obj\Debug\TugasWorkshop.Form1.resources
+C:\Users\LENOVO\Documents\Visual Studio 2022\TugasWorkshop\TugasWorkshop\obj\Debug\TugasWorkshop.Properties.Resources.resources
+C:\Users\LENOVO\Documents\Visual Studio 2022\TugasWorkshop\TugasWorkshop\obj\Debug\TugasWorkshop.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\Visual Studio 2022\TugasWorkshop\TugasWorkshop\obj\Debug\TugasWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Visual Studio 2022\TugasWorkshop\TugasWorkshop\obj\Debug\TugasWorkshop.exe
+C:\Users\LENOVO\Documents\Visual Studio 2022\TugasWorkshop\TugasWorkshop\obj\Debug\TugasWorkshop.pdb
+C:\Users\Febriansyah\Downloads\TugasWorkshop_TI-main\TugasWorkshop_TI-main\TugasWorkshop\TugasWorkshop\bin\Debug\TugasWorkshop.exe.config
+C:\Users\Febriansyah\Downloads\TugasWorkshop_TI-main\TugasWorkshop_TI-main\TugasWorkshop\TugasWorkshop\bin\Debug\TugasWorkshop.exe
+C:\Users\Febriansyah\Downloads\TugasWorkshop_TI-main\TugasWorkshop_TI-main\TugasWorkshop\TugasWorkshop\bin\Debug\TugasWorkshop.pdb
+C:\Users\Febriansyah\Downloads\TugasWorkshop_TI-main\TugasWorkshop_TI-main\TugasWorkshop\TugasWorkshop\obj\Debug\TugasWorkshop.csproj.AssemblyReference.cache
+C:\Users\Febriansyah\Downloads\TugasWorkshop_TI-main\TugasWorkshop_TI-main\TugasWorkshop\TugasWorkshop\obj\Debug\TugasWorkshop.Form1.resources
+C:\Users\Febriansyah\Downloads\TugasWorkshop_TI-main\TugasWorkshop_TI-main\TugasWorkshop\TugasWorkshop\obj\Debug\TugasWorkshop.Properties.Resources.resources
+C:\Users\Febriansyah\Downloads\TugasWorkshop_TI-main\TugasWorkshop_TI-main\TugasWorkshop\TugasWorkshop\obj\Debug\TugasWorkshop.csproj.GenerateResource.cache
+C:\Users\Febriansyah\Downloads\TugasWorkshop_TI-main\TugasWorkshop_TI-main\TugasWorkshop\TugasWorkshop\obj\Debug\TugasWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\Febriansyah\Downloads\TugasWorkshop_TI-main\TugasWorkshop_TI-main\TugasWorkshop\TugasWorkshop\obj\Debug\TugasWorkshop.exe
+C:\Users\Febriansyah\Downloads\TugasWorkshop_TI-main\TugasWorkshop_TI-main\TugasWorkshop\TugasWorkshop\obj\Debug\TugasWorkshop.pdb
+C:\Users\Febriansyah\Downloads\TugasWorkshop_TI20\TugasWorkshop_TI20\TugasWorkshop\TugasWorkshop\bin\Debug\TugasWorkshop_TI20.exe.config
+C:\Users\Febriansyah\Downloads\TugasWorkshop_TI20\TugasWorkshop_TI20\TugasWorkshop\TugasWorkshop\bin\Debug\TugasWorkshop_TI20.exe
+C:\Users\Febriansyah\Downloads\TugasWorkshop_TI20\TugasWorkshop_TI20\TugasWorkshop\TugasWorkshop\bin\Debug\TugasWorkshop_TI20.pdb
+C:\Users\Febriansyah\Downloads\TugasWorkshop_TI20\TugasWorkshop_TI20\TugasWorkshop\TugasWorkshop\obj\Debug\TugasWorkshop.csproj.AssemblyReference.cache
+C:\Users\Febriansyah\Downloads\TugasWorkshop_TI20\TugasWorkshop_TI20\TugasWorkshop\TugasWorkshop\obj\Debug\TugasWorkshop.Form1.resources
+C:\Users\Febriansyah\Downloads\TugasWorkshop_TI20\TugasWorkshop_TI20\TugasWorkshop\TugasWorkshop\obj\Debug\TugasWorkshop.Properties.Resources.resources
+C:\Users\Febriansyah\Downloads\TugasWorkshop_TI20\TugasWorkshop_TI20\TugasWorkshop\TugasWorkshop\obj\Debug\TugasWorkshop.csproj.GenerateResource.cache
+C:\Users\Febriansyah\Downloads\TugasWorkshop_TI20\TugasWorkshop_TI20\TugasWorkshop\TugasWorkshop\obj\Debug\TugasWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\Febriansyah\Downloads\TugasWorkshop_TI20\TugasWorkshop_TI20\TugasWorkshop\TugasWorkshop\obj\Debug\TugasWorkshop_TI20.exe
+C:\Users\Febriansyah\Downloads\TugasWorkshop_TI20\TugasWorkshop_TI20\TugasWorkshop\TugasWorkshop\obj\Debug\TugasWorkshop_TI20.pdb
